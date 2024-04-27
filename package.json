@@ -4,7 +4,9 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "test": "cypress run"
+    "test": "cypress run",
+    "verify":"cypress verify",
+    "info":"cypress info"
   },
   "author": "",
   "license": "ISC",
